@@ -10,3 +10,8 @@ function isAbove18(){
 function getName(){
     console.log(name)
 }
+
+
+function sahilfeat(){
+    console.log("This is a new feature")
+}
